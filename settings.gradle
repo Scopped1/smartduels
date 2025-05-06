@@ -1,0 +1,2 @@
+rootProject.name = "SmartDuels"
+include "plugin", "api"

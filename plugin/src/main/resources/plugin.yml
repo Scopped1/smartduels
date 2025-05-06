@@ -1,0 +1,3 @@
+name: SmartDuels
+version: "${version}"
+main: it.scopped.smartduels.SmartDuelsAPI

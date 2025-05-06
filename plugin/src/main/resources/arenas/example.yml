@@ -1,0 +1,9 @@
+first_spawn: "world;0;0;0;0;0"
+second_spawn: "world;0;0;0;0;0"
+spectator_spawn: "world;0;0;0;0;0"
+
+kit:
+  identifier: "example_kit"
+  contents: ""
+  armors: ""
+  display_item: ""

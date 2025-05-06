@@ -1,0 +1,4 @@
+package it.scopped.smartduels.duel.state;
+
+public class DuelState {
+}
